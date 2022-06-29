@@ -1,0 +1,202 @@
+.bg1
+{
+    background-image: url('../img/bg.jpg');
+    background-repeat: no-repeat;
+    height: 721px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    }
+    
+.loginbox
+{
+    padding-top: 80px;
+    padding-left: 150px;
+    padding-right: 150px;
+    }
+    
+.loginbg 
+{
+    background-image: url('../img/login.jpg');
+    height: 721px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+    
+.loginbg1 
+{
+    background-image: url('../img/login.jpg');
+    height: 648px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+    
+.logreg 
+{
+    padding-top: 280px;
+    }
+    
+.logreg p
+{
+    letter-spacing: .2rem;
+    }
+    
+.purbtn
+{
+    background-color: #1d1433;
+    }
+    
+.regbtn 
+{
+    margin-left: 293px;
+    }
+    
+.selbtn
+{
+    width: 366px;
+    height: 268px;
+    margin-top: 231px;
+    margin-left: 188px;
+    font-size: 50px;
+    }
+    
+.t4Left 
+{
+	float: left;
+    }
+
+.t4Right 
+{
+	float: right;
+    }
+
+.t4Clear 
+{
+	clear: both;
+    }
+    
+.indexpg
+{
+    padding-top:150px;
+    }
+    
+.indexpg h1 
+{
+    font-size: 70px;
+    }
+    
+.indexpg p 
+{
+    font-size: 20px;
+    letter-spacing: .2rem;
+    }
+    
+.mainbg 
+{
+    background-image: url('../img/main.jpg');
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+    }
+    
+.mainbg1
+{
+    background-image: url('../img/main.jpg');
+    height: 705px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+    
+.mainbg2
+{
+    background-image: url('../img/main.jpg');
+    height: 620px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+    
+.mainbg3
+{
+    background-image: url('../img/main.jpg');
+    height: 721px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+    
+.transbox
+{
+    margin: 30px;
+    background-color: #000;
+    border: 1px solid black;
+    opacity: 0.7;
+    height: 640px;
+    }
+    
+.transbox1
+{
+    background-color: #000;
+    border: 1px solid black;
+    opacity: 0.7;
+    height: 620px;
+    }
+   
+.mainbox
+{
+    background-color: #fff;
+    padding: 20px;
+    }
+    
+.mainboxbor
+{
+    border: solid 2px #000;
+    padding: 10px;
+    }
+    
+.abc 
+{    
+    padding-top: 25px;
+    padding-bottom: 25px;
+    }
+    
+.mainbor
+{
+    border: dotted 2px #000;
+    }
+    
+.footline li{
+	display: inline;
+	padding: 10px;
+}
+
+.text-white1
+{
+    background-color: #fff;
+    opacity: 1;
+    font-weight: 700;
+    color: #000;
+    }
+    
+.loginbtn
+{
+    font-size: 20px;
+    font-weight: 600;
+    }
+
+.roombox 
+{
+    background-color: #fff;
+    margin-top: 150px;
+    padding: 30px;
+    }
